@@ -1,2 +1,3 @@
 # Random-Password-Generator
-Random password generator where you choose on your own the length of the password
+
+To start the code use "py.exe" and then the name of the file (in Visual Studio Code)
